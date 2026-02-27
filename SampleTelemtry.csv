@@ -1,0 +1,12 @@
+Forklift_ID,Timestamp_Seconds,X,Y,Z,Rotation_Degrees,Has_Load,Is_Active
+1,0,-15,0,0,90,false,true
+1,5,-5,0,0,90,false,true
+1,10,5,0,0,90,true,true
+1,15,5,0,10,180,true,true
+2,0,10,0,-15,0,true,true
+2,5,10,0,-5,0,true,true
+2,30,20,0,-5,90,true,true
+2,35,30,0,-5,90,false,true
+3,0,-20,0,-20,45,false,true
+3,5,-15,0,-15,45,false,true
+3,80,-15,0,-15,45,false,false
